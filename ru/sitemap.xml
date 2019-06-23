@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ru/categories/</loc>
+    <loc>https://suomirocks.github.io/ru/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://suomirocks.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/ru/categories/"
+                href="https://suomirocks.github.io/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ru/tags/</loc>
+    <loc>https://suomirocks.github.io/ru/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://suomirocks.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/ru/tags/"
+                href="https://suomirocks.github.io/ru/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ru/</loc>
+    <loc>https://suomirocks.github.io/ru/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://suomirocks.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://example.org/ru/"
+                href="https://suomirocks.github.io/ru/"
                 />
   </url>
   
