@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://suomirocks.github.io/en/</loc>
+    <lastmod>2019-06-30T12:14:10+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +15,37 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://suomirocks.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://suomirocks.github.io/en/posts/</loc>
+    <lastmod>2019-06-30T12:14:10+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://suomirocks.github.io/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://suomirocks.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://suomirocks.github.io/en/posts/top-restaurants-and-bars-in-helsinki/</loc>
+    <lastmod>2019-06-30T12:14:10+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://suomirocks.github.io/ru/posts/top-restaurants-and-bars-in-helsinki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://suomirocks.github.io/en/posts/top-restaurants-and-bars-in-helsinki/"
                 />
   </url>
   

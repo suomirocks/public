@@ -4,10 +4,14 @@
 	<sitemap>
 	   	<loc>https://suomirocks.github.io/en/sitemap.xml</loc>
 		
+	   	<lastmod>2019-06-30T12:14:10+03:00</lastmod>
+		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://suomirocks.github.io/ru/sitemap.xml</loc>
+		
+	   	<lastmod>2019-06-30T12:14:10+03:00</lastmod>
 		
 	</sitemap>
 	

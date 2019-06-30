@@ -3,6 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://suomirocks.github.io/ru/posts/</loc>
+    <lastmod>2019-06-30T12:14:10+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://suomirocks.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://suomirocks.github.io/ru/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://suomirocks.github.io/ru/</loc>
+    <lastmod>2019-06-30T12:14:10+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://suomirocks.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://suomirocks.github.io/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://suomirocks.github.io/ru/posts/top-restaurants-and-bars-in-helsinki/</loc>
+    <lastmod>2019-06-30T12:14:10+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://suomirocks.github.io/en/posts/top-restaurants-and-bars-in-helsinki/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://suomirocks.github.io/ru/posts/top-restaurants-and-bars-in-helsinki/"
+                />
+  </url>
+  
+  <url>
     <loc>https://suomirocks.github.io/ru/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -29,21 +76,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://suomirocks.github.io/ru/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://suomirocks.github.io/ru/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://suomirocks.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://suomirocks.github.io/ru/"
                 />
   </url>
   
